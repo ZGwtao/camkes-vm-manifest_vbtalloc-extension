@@ -1,9 +1,4 @@
-<!--Borrowed from https://github.com/seL4/camkes-vm-examples-manifest/blob/master/default.xml-->
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-   Copyright 2023 seL4 Project a Series of LF Projects, LLC
-   SPDX-License-Identifier: BSD-2-Clause
--->
 <manifest>
   <remote name="lwip" fetch="https://git.savannah.gnu.org/git/"/>
   <remote name="picotcp" fetch="https://github.com/tass-belgium"/>
