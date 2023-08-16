@@ -8,11 +8,11 @@
   <remote name="zeromq" fetch="https://github.com/zeromq"/>
   <default remote="seL4" revision="master"/>
   <project name="seL4_libs-vbtalloc-extension" path="projects/seL4_libs" remote="capbuddy"
-           revision="4c53735b59ce1006c57f724a3b138906bb409e12" upstream="master" dest-branch="master"/>
+           revision="49355a40ee6eae7f427273135b9faa9ef00238c0" upstream="master" dest-branch="master"/>
   <project name="seL4_projects_libs-vbtalloc-extension" path="projects/seL4_projects_libs" remote="capbuddy"
-           revision="e7ea3209227cc6ab4f1a4872ff8f031e37c7f893" upstream="master" dest-branch="master"/>
+           revision="4e68161c547df6ffa9e485d67f85579bdd61bacc" upstream="master" dest-branch="master"/>
   <project name="camkes-vm-vbtalloc-extension" path="projects/vm" remote="capbuddy"
-           revision="e072960ff9eae5a561c5b40a6bfe64e7ab2d998d" upstream="master" dest-branch="master">
+           revision="695d368d8296f4bfbd406120111f6f334fe8e467" upstream="master" dest-branch="master">
     <linkfile src="README.md" dest="README.md"/>
   </project>
   <project name="camkes-tool.git" path="projects/camkes-tool" revision="fd099f3d395897d3ba0da7822f2ee9c2458eb383" upstream="master" dest-branch="master">
